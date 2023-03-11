@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ayush abraham/IdeaProjects/QALegendProject1">
+        <classes>
+            <class name="com.obsqura.scripts.LoginTest">
+                <methods>
+                    <include name="validQaLegendLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
